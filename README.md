@@ -13,12 +13,12 @@ I'm a developing enthusiast who loves learning new things. I've only been coding
 
 ## My Skills
 
-- Database - **SQLServer**
+- Database - **MSSQLServer, MongoDB**
 -	Programming Basics - **C++**
 -	Software Engineering - **C#**
--	Frontend Developing - **HTML, CSS, JS**
--	Backend Developing - **C#**
--	More Tools - **React, RESTful Api, Data structures & Algorithms**
+-	Frontend Developing - ** HTML, CSS, JS, React, React Nativ**
+-	Backend Developing - **Building RESTful APIs with .NET Core & C# and logical development**
+-	More Tools - **Data structures & Algorithms, Analysis and characterization of information systems **
 
 ## My Projects
 
