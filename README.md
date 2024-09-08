@@ -25,11 +25,12 @@ I'm a developing enthusiast who loves learning new things. I've only been coding
 - Hameluna - Final Project [Admin page](https://proj.ruppin.ac.il/cgroup54/test2/tar2/dist/#/admin)
   A full-stack web application for managing a dog shelter, integrating with an advertising 
   platform for dog adoption.
-  • Technologies Used: React for the frontend and .NET Core for the backend, with 
+  
+  * Technologies Used: React for the frontend and .NET Core for the backend, with 
   Firebase Realtime Database, MongoDB, and MSSQL for data storage.
-  • Achievements: Integrated ChatGPT to assist matching between adopters and dogs 
+  * Achievements: Integrated ChatGPT to assist matching between adopters and dogs 
   based on conversational input.
-  • Role: Led a team of three during development, overseeing the technical aspects. 
+  * Role: Led a team of three during development, overseeing the technical aspects. 
   Responsible for developing the adopters page and integrating ChatGPT into the 
   system
   ![Admin Page.](https://myoctocat.com/assets/images/base-octocat.svg)
