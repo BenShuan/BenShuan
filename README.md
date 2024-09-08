@@ -23,6 +23,7 @@ I'm a developing enthusiast who loves learning new things. I've only been coding
 ## My Projects
 
 - Hameluna 🐶 - Final Project [Admin page](https://proj.ruppin.ac.il/cgroup54/test2/tar2/dist/#/admin)
+
   A full-stack web application for managing a dog shelter, integrating with an advertising 
   platform for dog adoption.
   
