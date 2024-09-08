@@ -33,7 +33,7 @@ I'm a developing enthusiast who loves learning new things. I've only been coding
   * Role: Led a team of three during development, overseeing the technical aspects. 
   Responsible for developing the adopters page and integrating ChatGPT into the 
   system
-  ![Admin Page.]([https://myoctocat.com/assets/images/base-octocat.svg](https://firebasestorage.googleapis.com/v0/b/rpsruppin-79109.appspot.com/o/images%2Frue11p112%2FScreenshots%2FscreenShot866.6298754534579.jpeg?alt=media&token=8a3e9a61-9a76-4481-9347-e03d0dffc41d))
+  ![Admin Page.](https://firebasestorage.googleapis.com/v0/b/rpsruppin-79109.appspot.com/o/images%2Frue11p112%2FScreenshots%2FscreenShot866.6298754534579.jpeg?alt=media&token=8a3e9a61-9a76-4481-9347-e03d0dffc41d)
 
 
 
