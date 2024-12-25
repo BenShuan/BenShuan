@@ -4,7 +4,7 @@ I'm a developing enthusiast who loves learning new things. I've only been coding
 
 ## About Me
 
-- 👨‍🎓 4th year Industrial Engineering & management student - specialize in information systems.
+- 👨‍🎓 BSc in Industrial Engineering and Management, specializing in Information Systems.
 - 🔭 Currently working on improving my coding skills and learning new technologies.
 - 👯 I’m looking to collaborate on open-source projects and learn from other developers.
 - 🖥 Searching for my first opportunity to enter the world of development. 
